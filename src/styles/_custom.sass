@@ -2,13 +2,21 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 15%
+    right: 20%
+    width: 65px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    bottom: 10%
+    right: 20%
+    width: 80px
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    left: 8%
+    width: 100px
 
 
 @keyframes float1
@@ -17,3 +25,119 @@
 
   100%
     transform: translateY(0px)
+
+// Banner ---------------------------------------
+
+@media (max-width: 991px)
+  .banner-principal
+    .container.tarjeta
+      background-image: url(../assets/curso/portada/fondo-banner-principal_02.png) !important
+
+
+
+// text utilities ---------------------------------------
+.bold
+  font-weight: 700
+.txt--orange
+  color: #F88F05
+
+.cstmborder
+  border-radius: 15px
+  border: 3px solid #F88F05
+
+.cstmH3
+  padding: 0.5em 2em 0 0
+  background-color: #000000
+  border-radius: 7px
+  h3
+    color: white !important
+
+// img utilities ---------------------------------------
+.img35
+  width: 35px
+.img65
+  width: 65px
+.img85
+  width: 85px
+.img145
+  width: 145px
+.img200
+  width: 200px
+.img300
+  max-width: 300px
+
+// bg utilities ---------------------------------------
+.bg--yellow
+  background-color: #FFD817
+.bg--yellow2
+  background-color: #FFF5C5
+.bg--PaleYellow
+  background-color: #FFFAF3
+.bg--PaleYellow2
+  background-color: #FFF6E9
+.bg--paleBlue
+  background-color: #F3F9FF
+.bg--grayBlue
+  background-color: #DEE4F0
+.bg--gray
+  background-color: #EFEFEF
+.bg--white
+  background-color: #ffffff
+
+.br-01
+  border-radius: 15px
+.br-02
+  border-radius: 10px
+
+.hgt--100
+  height: 100%
+
+// bg utilities ---------------------------------------
+.crd--numb
+  padding: 1em  
+  background-color: #FFF5C5
+  border: 2px solid #F88F05
+  border-radius: 15px
+  text-align: center
+
+.roundNumber
+  position: relative
+  display: inline-block   
+  padding: 0.3em 0.8em
+  margin-bottom: 1em
+  background-color: white
+  border: 2px solid #F88F05
+  border-radius: 999px
+  p 
+    font-weight: 700
+
+.bg_slider
+  background-image: url(../assets/curso/temas/recursos/bg_slider.svg)
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: top center
+  
+
+// Table utilities ---------------------------------------
+.cell--yellow
+  background-color: #FFF5C5 !important
+.cell--yellow2
+  background-color: #FFD817 !important
+
+// Slider utilities ---------------------------------------
+
+.slyder-a__bullets__item--active
+  background-color: #000000 !important
+  border: none
+.slyder-a__bullets__item
+  background-color: #A5927B
+  border: none
+
+// carrusel utilities ---------------------------------------
+.slyder-f__main
+  .horizontal-scroll__wrapper
+    .horizontal-scroll
+      align-items: stretch !important
+
+.img-infografica__item__dot:before
+  opacity: 1 !important
