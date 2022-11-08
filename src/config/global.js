@@ -135,12 +135,6 @@ export default {
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77889#:~:text=Tiene%20por%20objeto%20la%20ejecuci%C3%B3n,por%20el%20Ministerio%20de%20Transporte',
     },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
-    },
   ],
   glosario: [
     {
@@ -218,7 +212,7 @@ export default {
     },
     {
       referencia:
-        'Ley 1503 de 2011. [Congreso de la República]. Por la cual se promueve la formación de hábitos, comportamientos y conductas seguros en la vía y se dictan otras disposiciones. Diciembre 29 de 2011',
+        'Ley 1503 de 2011. [Congreso de la República]. Por la cual se promueve la formación de hábitos, comportamientos y conductas seguros en la vía y se dictan otras disposiciones. Diciembre 29 de 2011.',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_1503_2011.html',
     },

@@ -7,7 +7,7 @@
         span 1
       h1 Plan estratégico de seguridad vial y relaciones humanas
 
-    p(data-aos="fade-left") Antes de hablar sobre los planes estratégicos de #[strong seguridad vial] es importante recordar que la seguridad vial hace referencia al resultado de tomar medidas necesarias para generar una movilidad segura por parte de todos los actores viales, realizando actividades sistemáticas en diferentes escenarios de la movilidad como el aspecto normativo, educativo, técnico y tecnológico con el fin de mitigar, prevenir o eliminar los riesgos de accidentes de tránsito y sus desastrosos resultados en la vida y salud de las personas que transitan por la vía en cualquier forma como actor vial
+    p(data-aos="fade-left") Antes de hablar sobre los planes estratégicos de #[strong seguridad vial] es importante recordar que la seguridad vial hace referencia al resultado de tomar medidas necesarias para generar una movilidad segura por parte de todos los actores viales, realizando actividades sistemáticas en diferentes escenarios de la movilidad como el aspecto normativo, educativo, técnico y tecnológico con el fin de mitigar, prevenir o eliminar los riesgos de accidentes de tránsito y sus desastrosos resultados en la vida y salud de las personas que transitan por la vía en cualquier forma como actor vial.
 
     p(data-aos="fade-left").mb-4 #[strong Cabe recordar que según la Agencia Nacional de Seguridad Vial (2011):]
 
