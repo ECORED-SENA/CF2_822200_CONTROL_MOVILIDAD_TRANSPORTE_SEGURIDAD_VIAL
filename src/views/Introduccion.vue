@@ -10,7 +10,7 @@
       h1 Introducción
 
     .row.justify-content-center.mb-4
-      .col-auto(data-aos="zoom-in")
+      .col-auto.d-none.d-md-flex(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/intro/intro.svg", alt="alt").img85
       .col(data-aos="fade-left")
@@ -20,7 +20,7 @@
 
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/aUgBuliiMxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)       
 
 
     

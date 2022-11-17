@@ -110,7 +110,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/XlzR2QWtrCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     p(data-aos="fade-left").mb-5 La siguiente ilustración presenta algunas entidades del sector público y del servicio de transporte donde cada una de ellas tiene una finalidad diferente, pero todas se enmarcan dentro del mismo sector, estas son:
 
@@ -218,7 +218,7 @@
       span Servicio público de transporte de pasajeros y de transporte de carga
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
-      .col-lg-8
+      .col-xl-9
         .tabla-a
           table
             thead(style="border-top:none;")
@@ -232,7 +232,7 @@
 
     p(data-aos="fade-left").mb-5 #[strong Ahora conozca en detalle el tipo de transporte y sus características.]
 
-    .bg_slider.p-2.p-md-4.p-lg-5.mb-5(data-aos="zoom-in")
+    .bg_slider.br-01.p-2.p-md-4.p-lg-5.mb-5(data-aos="zoom-in")
       SlyderA(tipo="b")
         .row
           .col-lg-6.mb-4.mb-lg-0
@@ -302,7 +302,7 @@
     h3.text-center(data-aos="fade-left").mb-4 Comparendo e infracciones de tránsito
 
     .row.justify-content-center.mb-5
-      .col-lg-4(data-aos="flip-left")
+      .col-lg-4.mb-4.mb-lg-0(data-aos="flip-left")
         .bg--paleBlue.p-4.br-01.hgt--100
           h4.text-center Infracción
           figure
@@ -340,7 +340,7 @@
     h3(data-aos="fade-right").mb-5.text-center Pasos para un control operativo
 
     .row.justify-content-center.align-items-center
-      .col-lg-6(data-aos="zoom-in")
+      .col-lg-6.mb-4.mb-lg-0(data-aos="zoom-in")
         figure
           img(src='@/assets/curso/temas/t2/t2_24.svg', alt='')
 

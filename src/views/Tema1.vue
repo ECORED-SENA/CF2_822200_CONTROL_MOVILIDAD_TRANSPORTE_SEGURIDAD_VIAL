@@ -24,11 +24,11 @@
               figure
                 img(src="@/assets/curso/temas/t1/t1_01.svg", alt="alt").img65
 
-      .col-lg-6(data-aos="flip-left")
+      .col-lg-6.d-none.d-lg-flex(data-aos="flip-left")
         figure
           img(src="@/assets/curso/temas/t1/t1_02.png", alt="alt")
 
-    .row.justify-content-center.align-items-start.mb-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-6(data-aos="flip-right")
         figure
           img(src="@/assets/curso/temas/t1/t1_03.png", alt="alt")
@@ -41,7 +41,7 @@
     p(data-aos="fade-left").mb-5 #[strong Atendiendo a lo anterior y con la finalidad de entender el plan estratégico de seguridad vial de una empresa a continuación se presentan las siglas que se utilizan en la elaboración de estos.]
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
-      .col-lg-7
+      .col-xl-9
         .tabla-a
           table
             thead
