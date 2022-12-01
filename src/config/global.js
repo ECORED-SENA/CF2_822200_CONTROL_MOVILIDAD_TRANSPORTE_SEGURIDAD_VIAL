@@ -65,7 +65,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '2.3',
             titulo:
-              'Orden de comparendo e Informe único de infracción al transporte IUIT',
+              'Orden de comparendo e Informe Único de Infracción al Transporte IUIT',
             hash: 't_2_3',
           },
         ],
@@ -124,8 +124,7 @@ export default {
       referencia:
         'Resolución 20223040040595 de 2022. [Ministerio de Transporte]. Por la cual se adopta la metodología para el diseño, implementación y verificación de los Planes Estratégicos de Seguridad Vial y se dictan otras disposiciones. Julio 14 de 2022.',
       tipo: 'Documento legal',
-      link:
-        'https://www.mintransporte.gov.co/documentos/671/2022/genPagDocs=17',
+      descarga: '/downloads/R_20223040040595.pdf',
     },
     {
       tema: 'Decreto único reglamentario del sector transporte',
@@ -264,25 +263,48 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Carlos Julián Ramírez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'John Jairo Arciniegas González ',
+        cargo: 'Producción audiovisual ',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo García ',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Melina Tatiana Quintero Rodriguez ',
+        cargo: 'Validación Contenido ',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy María Ruíz Torres ',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Magdi Khalifah',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Melina Tatiana Quintero',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

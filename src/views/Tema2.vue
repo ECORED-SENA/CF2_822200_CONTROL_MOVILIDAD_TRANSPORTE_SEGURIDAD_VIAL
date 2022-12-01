@@ -108,11 +108,13 @@
             figure
               img(src='@/assets/curso/temas/t2/t2_06.png', alt='')
 
+    p.mb-5 El sector transporte se encuentra en cabeza del Ministerio de Transporte como su máxima autoridad, que a través del Decreto 1079 de 2015 indica como objetivo primordial “la formulación y adopción de las políticas, planes, programas, proyectos y regulación económica en materia de transporte, tránsito e infraestructura y, la regulación técnica del transporte y tránsito de los modos carretero, marítimo, fluvial, férreo y aéreo”. Por ello, se invita a que observe el video que presenta con mayor detalle dicha  información.
+
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/XlzR2QWtrCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p(data-aos="fade-left").mb-5 La siguiente ilustración presenta algunas entidades del sector público y del servicio de transporte donde cada una de ellas tiene una finalidad diferente, pero todas se enmarcan dentro del mismo sector, estas son:
+    p(data-aos="fade-left").mb-5 A continuación se presentan algunas entidades del sector público y del servicio de transporte donde cada una de ellas tiene una finalidad diferente, pero todas se enmarcan dentro del mismo sector, estas son:
 
     .row.mb-4(data-aos="fade-right")
       .col-auto
@@ -146,7 +148,7 @@
       .bg--yellow2.br-01.p-4.hgt--100
         figure.mb-4
           img(src='@/assets/curso/temas/t2/t2_10.png', alt='')
-        h4.text-center ANI
+        h4.text-center AEROCIVIL
         p.mb-0 #[strong Aeronáutica civil:] su objetivo es garantizar el desarrollo de la aviación civil y de la administración del espacio aéreo en condición de seguridad y eficiencia acorde con las políticas, los planes y los programas gubernamentales.
 
       .bg--yellow2.br-01.p-4.hgt--100
@@ -288,7 +290,7 @@
     separador
 
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-      h2 2.3 Orden de comparendo e informe único de infracción al transporte IUIT
+      h2 2.3 Orden de comparendo e Informe Único de Fnfracción al Transporte IUIT
 
     .row.justify-content-center.mb-5
       .col-lg-4.col-8.mb-4.mb-lg-0(data-aos="flip-left")
@@ -317,7 +319,7 @@
           p.mb-0 Se define como una orden formal de notificación para que el presunto contraventor o implicado se presente ante la autoridad de tránsito por la comisión de una infracción. 
 
 
-    p(data-aos="fade-left").mb-5 Cabe resaltar que el Ministerio de Transporte creó la Resolución 20203040003785 de 2020 "Por la cual se adecua la reglamentación para la adaptación del Informe único de Infracciones al Transporte IUIT y se dictan otras disposiciones", con el objeto de adoptar el formato IUIT para que las autoridades de control de transporte lo implementen en el servicio operativo, aclarando que no debe indicarse código de infracción, solamente lo establecido en la ley general del transporte. Dicha resolución establece al final de su anexo el formato de IUIT y un recuadro normativo, que sirve de guía a las autoridades de control al momento de realizar la vigilancia en vía. 
+    p(data-aos="fade-left").mb-5 Cabe resaltar que el Ministerio de Transporte creó la Resolución 20203040003785 de 2020 "Por la cual se adecua la reglamentación para la adaptación del Informe Único de Infracciones al Transporte IUIT y se dictan otras disposiciones", con el objeto de adoptar el formato IUIT para que las autoridades de control de transporte lo implementen en el servicio operativo, aclarando que no debe indicarse código de infracción, solamente lo establecido en la ley general del transporte. Dicha resolución establece al final de su anexo el formato de IUIT y un recuadro normativo, que sirve de guía a las autoridades de control al momento de realizar la vigilancia en vía. 
 
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-10  
@@ -329,7 +331,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 IUIT
-                  p.mb-0 Se invita a revisar de manera detallada el formato de informe de infracción de transporte y se recomienda la descarga del siguiente documento.
+                  p.mb-0 Se invita a revisar de manera detallada el formato de Informes Únicos de Infracciones al Transporte y se recomienda la descarga del siguiente documento.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Resolucion_20203040024865_2020.pdf')" target="_blank")
                     span Descargar
@@ -360,7 +362,7 @@
               p.mb-0 Debe informar al infractor sobre la contravención cometida.
           .row(numero="5" titulo="Diligenciar")
             .col-12
-              p.mb-0 El oficial de tránsito debe diligenciar el formato de informe único de infracciones al transporte.
+              p.mb-0 El oficial de tránsito debe diligenciar el formato de Informe Único de Infracciones al Transporte.
           .row(numero="6" titulo="Inmovilización")
             .col-12
               p.mb-0 La autoridad de tránsito debe generar la orden de inmovilización del vehículo.

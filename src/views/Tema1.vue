@@ -40,6 +40,10 @@
 
     p(data-aos="fade-left").mb-5 #[strong Atendiendo a lo anterior y con la finalidad de entender el plan estratégico de seguridad vial de una empresa a continuación se presentan las siglas que se utilizan en la elaboración de estos.]
 
+    .titulo-sexto.color-acento-contenido
+      h5 Tabla 1.
+      span Siglas utilizadas en la elaboración de planes estratégicos
+
     .row.justify-content-center.mb-5(data-aos="zoom-in")
       .col-xl-9
         .tabla-a
@@ -119,7 +123,7 @@
             .col-auto
               .roundNumber.text-center
                 p.mb-0 3
-              h5.mb-0 vehículos<br>seguros
+              h5.mb-0 Vehículos<br>seguros
 
       .col-xl-2.col-md-5.col-8.mb-4(data-aos="flip-left")
         .crd--numb
@@ -127,7 +131,7 @@
             .col-auto
               .roundNumber.text-center
                 p.mb-0 4
-              h5.mb-0 infraestructura<br>segura
+              h5.mb-0 Infraestructura<br>segura
 
       .col-xl-2.col-md-5.col-8.mb-4(data-aos="flip-left")
         .crd--numb
