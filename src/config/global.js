@@ -230,7 +230,7 @@ export default {
       referencia:
         'Resolución 20223040040595 de 2022. [Ministerio de Transporte]. Por la cual se adopta la metodología para el diseño, implementación y verificación de los Planes Estratégicos de Seguridad Vial y se dictan otras disposiciones. Julio 14 de 2022.',
       link:
-        'https://www.mintransporte.gov.co/documentos/671/2022/genPagDocs=17',
+        'https://www.mintransporte.gov.co/documentos/buscar/?q=20223040040595',
     },
   ],
   creditos: {
